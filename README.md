@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shivanprasad1@gmail.com**
 
-- Other Languages and Frameworks: **Moralis | Solidity | Remix IDE | Ganache | Web3UIKit**
+- 😎  Other Languages and Frameworks: **Moralis | Solidity | Remix IDE | Ganache | Web3UIKit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
