@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shivan</h1>
 <h3 align="center">I'm 16 years old and I am aspiring to become a Web3 Developer.</h3>
-<img align=”right” alt=”coding” width=”400” src=”54e37d8074ebcde1d96c77d7b2a7f310.gif (680×428) (pinimg.com)”>
+<img align=”right” alt=”coding” width=”400” src=”54e37d8074ebcde1d96c77d7b2a7f310.gif”>
 
 - 🔭 I’m currently working on **A Decentralized Exchange**
 
