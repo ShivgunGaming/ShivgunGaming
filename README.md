@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shivan</h1>
 <h3 align="center">I'm 16 years old and I am aspiring to become a Web3 Developer.</h3>
-<img align=”right” alt=”coding” width=”400” src=”https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
+
 
 - 🔭 I’m currently working on **A Decentralized Exchange**
 
