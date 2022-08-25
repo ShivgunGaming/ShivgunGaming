@@ -1,4 +1,4 @@
-2000_600px.gif (1600×480) (bp.blogspot.com)
+<img align=”right” alt=”coding” width=”400” src=”https://img2.goodfon.com/wallpaper/big/4/b7/dart-veider-darth-vader-binary-code-star-wars-matritsa-kod-m.jpg (680×428) ”>
 <h1 align="center">Hi 👋, I'm Shivan</h1>
 <h3 align="center">I'm 16 years old and I am aspiring to become a Web3 Developer.</h3>
 <img align=”right” alt=”coding” width=”400” src=”54e37d8074ebcde1d96c77d7b2a7f310.gif (680×428) (pinimg.com)”>
