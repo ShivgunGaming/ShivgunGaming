@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shivan</h1>
 <h3 align="center">I'm 16 years old and I am aspiring to become a Web3 Developer.</h3>
 
-- 🔭 I’m currently working on **A Decentralized Exchange**
+- 🔭 I’m currently working on a Decentralized Exchange
 
-- 🌱 I’m currently learning **JavaScript & Bootstrap**
+- 🌱 I’m currently learning JavaScript & Bootstrap
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShivgunGaming](https://github.com/ShivgunGaming)
 
-- 💬 Ask me about **Web3**
+- 💬 Ask me about Crypto & Web3
 
-- 📫 How to reach me **shivanprasad1@gmail.com**
+- 📫 How to reach me shivanprasad1@gmail.com
 
 - Other Languages and Frameworks **Moralis | Solidity | Remix IDE | Ganache | Web3UIKit**
 
