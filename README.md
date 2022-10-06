@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivan</h1>
-<h3 align="center">I'm 16 years old and I am aspiring to become a Web3 Developer.</h3>
+<h3 align="center">I'm 16 years old and I am aspiring to become a Software Engineer.</h3>
 
 - 🔭 I’m currently working on a Decentralized Exchange
 
