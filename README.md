@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivan</h1>
 <h3 align="center">I'm 16 years old and I am aspiring to become a Software Engineer.</h3>
 
-- 🔭 I’m currently working on a Decentralized Exchange
+- 🔭 I’m currently working on small Solidity Projects
 
-- 🌱 I’m currently learning JavaScript & Bootstrap
+- 🌱 I’m currently learning Solidity and Smart Contracts
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShivgunGaming](https://github.com/ShivgunGaming)
 
