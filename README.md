@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Solidity and Smart Contracts
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShivgunGaming](https://github.com/ShivgunGaming)
+- 👨‍💻 All of my projects are available at [https://github.com/ShivgunGaming?tab=repositories](https://github.com/ShivgunGaming?tab=repositories)
 
 - 💬 Ask me about Crypto & Web3
 
