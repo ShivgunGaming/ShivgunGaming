@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Mulitsig Wallet**
 
-- 📫 How to reach me **shivanprasad1@gmail.com**
-
 - 🌱 I’m currently learning **Solidity & Smart Contracts**
 
 - 💬 Ask me about **Crypto & Web3**
+
+-- 📫 How to reach me **shivanprasad1@gmail.com**
 
 --------------
 
