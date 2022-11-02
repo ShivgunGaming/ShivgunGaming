@@ -6,7 +6,7 @@
 
 --------------
 
-- 🔭 I’m currently working on **Mulitsig Wallet**
+- 🔭 I’m currently working on a **Mulitsig Wallet**
 
 - 🌱 I’m currently learning **Solidity & Smart Contracts**
 
