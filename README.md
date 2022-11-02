@@ -1,4 +1,4 @@
-    **Digital Craftsman**
+    **`Digital Craftsman`**
 
 <h1 align="center">Hi 👋, I'm Shivan</h1>
 
