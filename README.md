@@ -29,3 +29,9 @@
 <a href="https://instagram.com/shivgungaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivgungaming" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uckeciujleauf2p6wnbivxeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckeciujleauf2p6wnbivxeq" height="30" width="40" /></a>
 </p>
+
+--------------
+
+<details>
+ <summary><h3>👨‍💻 Shivgun's Coding Journey</h3></summary>
+   I started Crypto in start of year 2021 and took a coding class in that time. After that i knew i wanted to do programming & developing, so i started learning Python for the rest of the year. Start of 2022, i started learning JavaScript and started building projects and then web3 projects. Once i was ready, i joined Moralis Academy and started to do courses. I started JavaScript Programming course and started picking up concepts of JavaScript really quickly. After i finished JavaScript and got my certificate, i learned the basics of Blockchain, Bitcoin and Ethereum. And now i am doing Smart Contract Programming 101. I am chasing my dreams with code and i won't stop until i get there.
