@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivan</h1>
 
-<h3 align="center"> **`Digital Craftsman`** </h3>
+<h3 align="center">Digital Craftsman</h3>
 
 <h3 align="center">I'm 16 years old and I am aspiring to become a Software Developer.</h3>
 
