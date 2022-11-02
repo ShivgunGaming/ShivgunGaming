@@ -1,6 +1,6 @@
 **`✅Digital Craftsman`**
 
-<h1 align="center">Hi 👋, I'm Shivan</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=500&color=F71049&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shivan+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <h3 align="center">I'm 16 years old and I am aspiring to become a Software Developer.</h3>
 
