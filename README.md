@@ -4,11 +4,11 @@
 
 <h3 align="center">I'm 16 years old and I am aspiring to become a Software Developer.</h3>
 
-![full-stack-development](https://user-images.githubusercontent.com/102505925/199618906-6f8bbf20-2daa-4368-8952-522d4d2e7027.gif)
-
-
 --------------
 
+![full-stack-development](https://user-images.githubusercontent.com/102505925/199618906-6f8bbf20-2daa-4368-8952-522d4d2e7027.gif)
+
+--------------
 
 - 🔭 I’m currently working on a **Mulitsig Wallet**
 
