@@ -31,6 +31,10 @@
 
 --------------
 
+![socialmedia](https://user-images.githubusercontent.com/102505925/199621104-cefb523c-7354-42ae-9654-99286829f6ab.gif)
+
+--------------
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shivgungaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivgungaming" height="30" width="40" /></a>
