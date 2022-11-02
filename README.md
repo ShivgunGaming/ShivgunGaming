@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Crypto & Web3**
 
--- 📫 How to reach me **shivanprasad1@gmail.com**
+- 📫 How to reach me **shivanprasad1@gmail.com**
 
 --------------
 
