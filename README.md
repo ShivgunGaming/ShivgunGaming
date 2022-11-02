@@ -21,7 +21,7 @@
 
  ✪ |🔥 Moralis 🔥 Ganache 🔥 Solidity 🔥
 
---------------
+#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +30,7 @@
 <a href="https://www.youtube.com/c/uckeciujleauf2p6wnbivxeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckeciujleauf2p6wnbivxeq" height="30" width="40" /></a>
 </p>
 
---------------
+#
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
