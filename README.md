@@ -4,7 +4,8 @@
 
 <h3 align="center">I'm 16 years old and I am aspiring to become a Software Developer.</h3>
 
-<p align="center"> ![full-stack-development](https://user-images.githubusercontent.com/102505925/199618132-8ebc87f4-ba91-442c-92a6-ae7030322710.gif) </p>
+![full-stack-development](https://user-images.githubusercontent.com/102505925/199618906-6f8bbf20-2daa-4368-8952-522d4d2e7027.gif)
+
 
 --------------
 
