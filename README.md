@@ -1,6 +1,6 @@
 **`✅Digital Craftsman`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Shivan+👋;I'm+16+years+old;I'm+aspiring+to+become+a+Software+Developer)](https://git.io/typing-svg)
 
 <h3 align="center">I'm 16 years old and I am aspiring to become a Software Developer.</h3>
 
