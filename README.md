@@ -1,8 +1,8 @@
 **`✅Digital Craftsman`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Shivan+👋;I'm+16+years+old;I'm+aspiring+to+become+a+Software+Developer)](https://git.io/typing-svg)
+### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivan Prasad and I am aspiring to become a Software Developer.
 
-<h3 align="center">I'm 16 years old and I am aspiring to become a Software Developer.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Shivan+👋;I'm+16+years+old;I'm+aspiring+to+become+a+Software+Developer)](https://git.io/typing-svg)
 
 --------------
 
