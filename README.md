@@ -2,7 +2,7 @@
 
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivan and I am aspiring to become a Software Developer. 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=500&color=F71049&center=true&width=435&lines=HODLer+%F0%9F%92%8E;NFT+HODLer+%F0%9F%96%BC%EF%B8%8F;Digital+Craftsman+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;BUILDer+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=35&duration=3500&pause=700&color=F7E707D7&center=true&vCenter=true&height=75&width=1300px&lines=I'm+an+aspiring+Developer💻;I'm+a+Digital+Craftsman🛠️;I'm+a+Coffee+Enthusiast☕)](https://git.io/typing-svg)
 
 --------------
 
