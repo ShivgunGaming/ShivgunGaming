@@ -10,6 +10,8 @@
 
 --------------
 
+<h3 align="left">What I'm up to:</h3>
+
 - 🔭 I’m currently working on a **Mulitsig Wallet**
 
 - 🌱 I’m currently learning **Solidity & Smart Contracts**
