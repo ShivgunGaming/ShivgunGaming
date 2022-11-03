@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on a **Mulitsig Wallet**
 
-- 🌱 I’m currently learning **Solidity & Smart Contracts**
+- 🌱 I’m currently learning **Solidity & Smart Contract Development**
 
 - 💬 Ask me about **Crypto & Web3 😎**
 
