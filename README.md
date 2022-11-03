@@ -1,12 +1,12 @@
 **`✅Digital Craftsman`**
 
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivan. </h2> 
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivan! </h2> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=35&duration=3500&pause=700&color=f75c7e&center=true&vCenter=true&height=75&width=1300px&lines=I'm+an+aspiring+Developer💻;I'm+a+Digital+Craftsman🛠️;I'm+a+Coffee+Enthusiast☕)](https://git.io/typing-svg)
 
 --------------
 
-<h3 align="left">What I'm up to:</h3>
+<h3 align="left">🚀 What I'm up to</h3>
 
 - 🔭 I’m currently working on a **Mulitsig Wallet**
 
@@ -18,14 +18,14 @@
 
 --------------
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⚡ My Tech Stack</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
  ✪ |🔥 Moralis 🔥 Ganache 🔥 Solidity 🔥
 
 --------------
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Let's Connect</h3>
 <p align="left">
 <a href="https://twitter.com/shivgungaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivgungaming" height="30" width="40" /></a>
 <a href="https://instagram.com/shivgungaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivgungaming" height="30" width="40" /></a>
