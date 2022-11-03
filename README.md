@@ -6,7 +6,9 @@
 
 --------------
 
-<h3 align="left">🚀 What I'm up to</h3>
+<h3 align="left">🚀 About Me</h3>
+
+- 🔥 I'm passionate about Crypto, Web3 3 Development and Web Development
 
 - 🔭 I’m currently working on a **Mulitsig Wallet**
 
