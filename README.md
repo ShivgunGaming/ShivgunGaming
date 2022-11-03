@@ -6,10 +6,6 @@
 
 --------------
 
-![full-stack-development](https://user-images.githubusercontent.com/102505925/199618906-6f8bbf20-2daa-4368-8952-522d4d2e7027.gif)
-
---------------
-
 <h3 align="left">What I'm up to:</h3>
 
 - 🔭 I’m currently working on a **Mulitsig Wallet**
