@@ -25,6 +25,9 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/ShivgunGaming/ShivgunGaming/blob/main/Solidity-Logo.wine.png" alt="solidity" width="40" height="40" /> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/ShivgunGaming/ShivgunGaming/blob/main/80474746.png" alt="moralis" width="40" height="40" /> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/ShivgunGaming/ShivgunGaming/blob/main/Ganache-min.png" alt="ganache" width="40" height="40" /> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/ShivgunGaming/ShivgunGaming/blob/main/1488416188-yarn-logo.png" alt="yarn" width="40" height="40" /> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/ShivgunGaming/ShivgunGaming/blob/main/npm-logo-png-transparent.png" alt="npm" width="40" height="40" /> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/ShivgunGaming/ShivgunGaming/blob/main/Node_logo_NodeJS.png" alt="nodejs" width="40" height="40" /> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
