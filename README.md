@@ -20,7 +20,7 @@
 
 --------------
 
-<h3 align="left">⚡ My Tech Stack</h3>
+<h3 align="left">⚡ My Skillset</h3>
 <p align="left"> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/ShivgunGaming/ShivgunGaming/blob/main/Solidity-Logo.wine.png" alt="solidity" width="40" height="40" /> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/ShivgunGaming/ShivgunGaming/blob/main/80474746.png" alt="moralis" width="40" height="40" /> </a>
