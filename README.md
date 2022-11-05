@@ -23,7 +23,7 @@
 <h3 align="left">💡 My Skillset</h3>
 <p align="left"> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/ShivgunGaming/ShivgunGaming/blob/main/Solidity-Logo.wine.png" alt="solidity" width="40" height="40" /> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/ShivgunGaming/ShivgunGaming/blob/main/80474746.png" alt="moralis" width="40" height="40" /> </a>
+<a href="" target="_blank" rel="noreferrer" style="padding-right:10px"> <img src="https://github.com/ShivgunGaming/ShivgunGaming/blob/main/80474746.png" alt="moralis" width="40" height="40" /> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/ShivgunGaming/ShivgunGaming/blob/main/Ganache-min.png" alt="ganache" width="40" height="40" /> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/ShivgunGaming/ShivgunGaming/blob/main/1488416188-yarn-logo.png" alt="yarn" width="40" height="40" /> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/ShivgunGaming/ShivgunGaming/blob/main/npm-logo-png-transparent.png" alt="npm" width="40" height="40" /> </a>
