@@ -43,6 +43,7 @@
 <a href="https://twitter.com/shivgungaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivgungaming" height="30" width="40" /></a>
 <a href="https://instagram.com/shivgungaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivgungaming" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uckeciujleauf2p6wnbivxeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckeciujleauf2p6wnbivxeq" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivan prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivan prasad" height="30" width="40" /></a>
 </p>
 
 --------------
