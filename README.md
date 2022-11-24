@@ -10,7 +10,7 @@
 
 - 🔥 I'm passionate about Crypto, Web3 and Web Development
 
-- 🔭 I’m currently working on a **Mulitsig Wallet**
+- 🔭 I’m currently working on **Small Projects**
 
 - 🌱 I’m currently learning **Solidity & Smart Contract Development**
 
