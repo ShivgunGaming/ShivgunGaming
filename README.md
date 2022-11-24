@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivan! </h2> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=35&duration=3500&pause=700&color=f75c7e&center=true&vCenter=true&height=75&width=1300px&lines=I'm+an+aspiring+Developer💻;I'm+a+Coffee+Enthusiast☕;I'm+a+Crypto+Hodler💎;I'm+a+NFT+Collector🏆;Web3+to+the+🌙)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=35&duration=3500&pause=700&color=f75c7e&center=true&vCenter=true&height=75&width=1300px&lines=I'm+an+aspiring+Developer💻;I'm+a+Tea+Enthusiast🍵;I'm+a+Crypto+Hodler💎;I'm+a+NFT+Collector🏆;Web3+to+the+🌙)](https://git.io/typing-svg)
 
 --------------
 
