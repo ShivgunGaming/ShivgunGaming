@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on a **Lofi Player**
 
-- 🌱 I’m currently learning **Solidity & Smart Contract Development**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Crypto & Web3 😎**
 
