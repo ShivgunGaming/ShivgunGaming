@@ -10,7 +10,7 @@
 
 - 🔥 I'm passionate about Crypto, Web3 and Web Development
 
-- 🔭 I’m currently working on a **Lofi Player**
+- 🔭 I’m currently working on a **Coin Exchange**
 
 - 🌱 I’m currently learning **Typescript & React**
 
