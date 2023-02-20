@@ -6,7 +6,7 @@
 
 <h3 align="center">🚀 About Me</h3>
 
-I'm a aspiring software developer (in web3 or web) and progressing foward one line at a time. All my coding projects are built from scratch, some of them are tutorials, some of them are my own, but all of them are from planning to solving real life problems with code and watching my projects being built from the ground up. I am also a investor in Crypto and NFTs but i'm not a financial advisor. I also make content on Twitter and Instagram, but not to much.
+I'm an aspiring software developer (in web3 or web) and progressing foward one line at a time. All my coding projects are built from scratch, some of them are tutorials, some of them are my own, but all of them are from planning to solving real life problems with code and watching my projects being built from the ground up. I am also a investor in Crypto and NFTs but i'm not a financial advisor. I also make content on Twitter and Instagram, but not to much.
 
 ---
 
