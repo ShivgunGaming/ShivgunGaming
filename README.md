@@ -18,7 +18,7 @@ I'm an aspiring software developer (in web3 or web) and progressing foward one l
 
 - 🌱 I’m currently learning **Typescript & React**
 
-- 💬 Ask me about **Crypto & Web3 😎**
+- 💬 Ask me about **Crypto, Web3 & Blockchain 😎**
 
 - 📫 How to reach me **shivanprasad1@gmail.com**
 
