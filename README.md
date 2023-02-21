@@ -34,6 +34,8 @@ I'm an aspiring software developer (in web3 or web) and progressing foward one l
 
 <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 
+<img align="left" alt="Moralis" width="30px" style="padding-right:10px;" src="https://images.saasworthy.com/tr:w-200,h-0/moralis_33564_logo_1629798710_jbroi.jpg" />
+
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
