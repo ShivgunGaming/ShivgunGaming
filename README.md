@@ -6,7 +6,9 @@
 
 <h3 align="center">🚀 About Me</h3>
 
-I'm an aspiring software developer (in web3 or web) and progressing foward one line at a time. All my coding projects are built from scratch, some of them are tutorials, some of them are my own, but all of them are from planning to solving real life problems with code and watching my projects being built from the ground up. I am also a investor in Crypto and NFTs but i'm not a financial advisor. I also make content on Twitter and Instagram, but not to much.
+<p align="center">
+ As a passionate and driven software developer, I am constantly pushing myself to new heights in the field of web3 or web development. My coding journey has been a labor of love, with each project meticulously built from scratch to solve real-world problems through innovative and elegant code solutions. Whether it's a tutorial or a personal project, every line of code I write is a testament to my unwavering commitment to excellence. As an avid investor in the world of crypto and NFTs, I am always seeking new and exciting opportunities to grow my portfolio and deepen my understanding of this exciting space. But my interests extend far beyond just coding and investing. I am also a content creator on Twitter and Instagram, sharing my insights and experiences with others who share my passion for technology and innovation. With each passing day, I am more determined than ever to make my mark in the world of software development, one line of code at a time. So join me on this exciting journey, and let's build the future together.
+</p>
 
 ---
 
