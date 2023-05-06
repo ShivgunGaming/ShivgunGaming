@@ -7,7 +7,7 @@
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
- As a passionate and driven software developer, I am constantly pushing myself to new heights in the field of web3 and web development. My coding journey has been a labor of love, with each project meticulously built from scratch to solve real-world problems through innovative and elegant code solutions. Whether it's a tutorial or a personal project, every line of code I write is a testament to my unwavering commitment to excellence. As an avid investor in the world of crypto and NFTs, I am always seeking new and exciting opportunities to grow my portfolio and deepen my understanding of this exciting space. But my interests extend far beyond just coding and investing. I am also a content creator on Twitter and Instagram, sharing my insights and experiences with others who share my passion for technology and innovation. With each passing day, I am more determined than ever to make my mark in the world of software development and life, one line of code at a time. So join me on this exciting journey, and let's build the future together.
+ Hi there! I'm passionate about the web3 space and constantly engaged in building projects that make it a better place. I believe that blockchain technology has the potential to revolutionize how we interact online and I'm thrilled to be a part of this exciting journey. Programming is my passion and I love to explore new technologies and experiment with them. I'm always looking for new challenges and opportunities to learn and grow as a developer. Let's build something great together!
 </p>
 
 ---
