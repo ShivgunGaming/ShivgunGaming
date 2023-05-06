@@ -16,9 +16,9 @@
 
 - 🔥 I'm passionate about Crypto, Web3 and Web Development
 
-- 🔭 I’m currently working on a **Coin Exchange**
+- 🔭 I’m currently working on **Starkverse & My Business**
 
-- 🌱 I’m currently learning **Typescript & React**
+- 🌱 I’m currently learning **Typescript & Next**
 
 - 💬 Ask me about **Crypto, Web3 & Blockchain 😎**
 
