@@ -16,7 +16,7 @@
 
 - 🔥 I'm passionate about Crypto, Web3 and Web Development
 
-- 🔭 I’m currently working on **Starkverse & My Business**
+- 🔭 I’m currently working on **Starkverse & Biometra**
 
 - 🌱 I’m currently learning **Typescript & Next**
 
