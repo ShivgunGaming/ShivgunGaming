@@ -16,9 +16,9 @@
 
 - 🔥 I'm passionate about Crypto, Web3 and Web Development
 
-- 🔭 I’m currently working on **Starkverse & Biometra**
+- 🔭 I’m currently working on **Biometra**
 
-- 🌱 I’m currently learning **Typescript & Next**
+- 🌱 I’m currently learning **Ethers, Alchemy and Biometrics**
 
 - 💬 Ask me about **Crypto, Web3 & Blockchain 😎**
 
