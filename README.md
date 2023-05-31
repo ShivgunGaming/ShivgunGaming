@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Biometra 🧬**
 
-- 🌱 I’m currently learning **Ethers, Alchemy & Biometrics 🧬**
+- 🌱 I’m currently learning **Ethers, Alchemy & Biometrics**
 
 - 💬 Ask me about **Crypto, Web3 & Blockchain 😎**
 
