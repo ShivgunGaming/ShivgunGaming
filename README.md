@@ -14,7 +14,7 @@
 
 <h3 align="left">📈 What I'm Up To</h3>
 
-- 🔥 I'm passionate about Crypto, Web3 & Web Development
+- 🔥 I'm passionate about Crypto, Web3 & Blockchain
 
 - 🔭 I’m currently working on **Biometra 🧬**
 
