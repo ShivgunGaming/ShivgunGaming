@@ -16,7 +16,7 @@
 
 - 🔥 I'm passionate about Crypto, Web3 & Blockchain
 
-- 🔭 I’m currently working on **Biometra 🧬**
+- 🔨 I’m currently working on **Biometra 🧬**
 
 - 🌱 I’m currently learning **Ethers, Alchemy & Biometrics**
 
