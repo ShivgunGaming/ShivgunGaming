@@ -18,7 +18,7 @@
 
 - 🔨 I’m currently buidling **Biometra 🧬**
 
-- 🌱 I’m currently learning **Biometrics**
+- 🌱 I’m currently learning **Biometrics & Chakra**
 
 - 💬 Ask me about **Crypto, Web3 & Blockchain 😎**
 
