@@ -18,7 +18,7 @@
 
 - 🔨 I’m currently buidling **Stakify & Biometra 🧬**
 
-- 🌱 I’m currently learning **Biometrics & Chakra**
+- 🌱 I’m currently learning **Biometrics & Passage**
 
 - 💬 Ask me about **Crypto, Web3 & Blockchain 😎**
 
