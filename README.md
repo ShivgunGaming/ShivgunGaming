@@ -16,7 +16,7 @@
 
 - 🔥 I'm passionate about Crypto, Web3 & Blockchain
 
-- 🔨 I’m currently buidling **Stakify, ᵍᵐPapagun & Biometra 🧬**
+- 🔨 I’m currently buidling **ᵍᵐShivgun, Biometra 🧬 & Chillout Web3**
 
 - 🌱 I’m currently learning **Biometrics & Passage**
 
