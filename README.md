@@ -16,9 +16,9 @@
 
 - 🔥 I'm passionate about Crypto, Web3 & Blockchain
 
-- 🔨 I’m currently buidling **ᵍᵐShivgun, Biometra 🧬 & Chillout Web3**
+- 🔨 I’m currently buidling **ᵍᵐShivgun, Biometra 🧬, The Chillout & BASED ON TAP**
 
-- 🌱 I’m currently learning **Biometrics & Passage**
+- 🌱 I’m currently learning **TAP, PIPE, Taproot, PSBTs & Ordinals**
 
 - 💬 Ask me about **Crypto, Web3 & Blockchain 😎**
 
