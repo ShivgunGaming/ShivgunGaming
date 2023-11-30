@@ -1,5 +1,3 @@
-**`🛠️ Digital Craftsman (Developer/Investor/Founder)`**
-
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivan! </h2> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=35&duration=3500&pause=700&color=f75c7e&center=true&vCenter=true&height=75&width=1300px&lines=Hello+There+!;Welcome+To+My+Profile+!;)](https://git.io/typing-svg)
