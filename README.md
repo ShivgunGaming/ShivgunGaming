@@ -11,6 +11,6 @@
     🎨 Digital Artist • Soon to be NFT Artist
     ✍️ Content Cre8or • Threads @ ᵍᵐ Shivgun
     🎶 I love music • I like creating music
-    🎮 Ex Gamer • Now all I get is nostalgia
-    🥰 Code • Art • Content • Music • Gaming
+    🎮 Gamer • Now all I get is nostalgia
+    🥰 Code, Art, Content, Music, Gaming
 </pre>
