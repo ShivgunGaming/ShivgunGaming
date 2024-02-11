@@ -5,10 +5,12 @@
 ![pixel-jeff-divoom](https://github.com/ShivgunGaming/ShivgunGaming/assets/102505925/5032d450-7ae7-496a-acff-73ff389b8dbb)
 
 <pre>
-    👨‍💻 FE @ Basedpad • FE Dev • Always Devving
-    🎨 Digital Artist • Soon to be NFT Artist
-    ✍️ Content Cre8or • Threads @ ᵍᵐ Shivgun
-    🎶 I love music • I like creating music
-    🎮 Gamer • Now all I get is nostalgia
-    🥰 Code, Art, Content, Music, Gaming
+    🔥 Dev @ HellsBells - Digital artifacts built on $BEL
+    🦆 Mod @ DomoDucks - The First Duck Inscribed on Bitcoin
+    👨‍💻 Dev @ Basedpad - the first launchpad built natively on Bitcoin!
+    <br>
+    🍳 Always working & cooking... always.
+    💖 "Set thy heart upon thy work, but never on thy reward!" - Lord Krishna
+    😤 Trust the process!
+    <br>
 </pre>
