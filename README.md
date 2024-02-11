@@ -4,8 +4,6 @@
 
 ![pixel-jeff-divoom](https://github.com/ShivgunGaming/ShivgunGaming/assets/102505925/5032d450-7ae7-496a-acff-73ff389b8dbb)
 
-😤 Trust the process!
-
 <pre>
     🔥 Dev @ HellsBells - Digital artifacts built on $BEL
     🦆 Mod @ DomoDucks - The First Duck Inscribed on Bitcoin
