@@ -6,8 +6,8 @@
 
 <pre>
     🔥 Dev @ HellsBells - Digital artifacts built on $BEL!
-    🦆 Mod @ DomoDucks - The First Ducks Inscribed on Bitcoin!
-    👨‍💻 Dev @ Basedpad - First Launchpad built natively on Bitcoin!
+    🦆 Mod @ DomoDucks - First Ducks Inscribed on Bitcoin!
+    👨‍💻 Dev @ Basedpad - First Launchpad built on Bitcoin!
     <br>
     🍳 Always working & cooking... always.
     💖 "Set thy heart upon thy work, but never on thy reward!" - Lord Krishna
