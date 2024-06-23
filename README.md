@@ -5,7 +5,7 @@
 ![pixel-jeff-divoom](https://github.com/ShivgunGaming/ShivgunGaming/assets/102505925/5032d450-7ae7-496a-acff-73ff389b8dbb)
 
 <pre>
-    🔥 Dev @ HellsBells - Digital artifacts built on $BEL!
+    🔥 Dev @ Sherpa - Educational focused platform for Web3!
     🦆 Mod @ DomoDucks - First Ducks Inscribed on Bitcoin!
     👨‍💻 Dev @ Lambswap - First Launchpad built on Bitcoin!
     <br>
