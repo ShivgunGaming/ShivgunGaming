@@ -5,11 +5,13 @@
 ![pixel-jeff-divoom](https://github.com/ShivgunGaming/ShivgunGaming/assets/102505925/5032d450-7ae7-496a-acff-73ff389b8dbb)
 
 <pre>
-    🔥 Dev @ Sherpa - Educational focused platform for Web3!
-    🦆 Mod @ DomoDucks - First Ducks Inscribed on Bitcoin!
-    👨‍💻 Dev @ Lambswap - First Launchpad built on Bitcoin!
+    🔥 Dev @ Sherpa - Education focused platform for crypto & Web3 beginners!
+    🌇 Dev @ Arkova - Delivering instant complient auditing for Bitcoin!
+    👨‍💻 Dev @ Basedpad - First Launchpad and Dex built on Bitcoin!
+    🌠 Dev @ PackOf7 - Focused on Power Platform for companies
     <br>
     🍳 Always working & cooking... always.
     💖 "Set thy heart upon thy work, but never on thy reward!" - Lord Krishna
+    ☀️ "Strength does not come from physical capacity. It comes from an indomitable will." - Lord Ram
     ✨ "You have the right to perform your prescribed duties, but you are not entitled to the fruits of your actions"
 </pre>
